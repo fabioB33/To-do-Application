@@ -1,0 +1,10 @@
+h1 {
+    text-align: 'center';
+    font-size: '24px';
+    margin:0;
+    padding:'48px';
+    font-weight: normal;
+      }
+.TodoCounter span {
+    font-weight: bold;
+}
